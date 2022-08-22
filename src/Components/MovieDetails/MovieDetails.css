@@ -1,0 +1,9 @@
+.container {
+
+padding: 1em;
+background-color: rgba(47, 53, 54,0.6);
+  /* border-bottom:9em; */
+  border:9em;
+  border-radius:2%;
+margin:2em;
+}
