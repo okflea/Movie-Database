@@ -4,6 +4,6 @@ IMDB clone using React , OMDB api and Vite!
 
 Hosted link : https://okflea-imdb.netlify.app/
 
-Things to be impletemented:
+Things to be implemented:
 * sort search results
 * embed Title trailer
